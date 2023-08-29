@@ -1,6 +1,7 @@
 # CS_6120_NLP
 
-#OverView
+OverView:
+
 This project focuses on classification of textual data used to express emotion of a person. Our
 project tries to solve an NLP problem by designing an efficient machine learning model written in
 python to be able to distinguish these different emotions expressed. We used five machine learning
