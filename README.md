@@ -1,5 +1,3 @@
-# CS_6120_NLP
-
 OverView:
 
 This project focuses on classification of textual data used to express emotion of a person. Our
